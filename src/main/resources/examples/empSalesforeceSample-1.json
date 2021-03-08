@@ -1,0 +1,32 @@
+[
+     {
+  "empId": 111,
+  "empName": "sindhu",
+  "empStatus": "A"
+},
+{
+  "empId": 112,
+  "empName": "wwww",
+  "empStatus": "I"
+},
+{
+  "empId": 113,
+  "empName": "hhh",
+  "empStatus": "A"
+},
+{
+  "empId": 114,
+  "empName": "ttt",
+  "empStatus": "I"
+},
+{
+  "empId": 115,
+  "empName": "xxxx",
+  "empStatus": "A"
+},
+{
+  "empId": 116,
+  "empName": "Rita",
+  "empStatus": "I"
+}
+]
