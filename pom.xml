@@ -36,7 +36,7 @@
 				      <username>keerthisindhura1234</username>
 				      <password>Keerthisindhura1234$</password>
 				      <applicationName>salesforcedemo</applicationName>
-				      <environment>sandbox</environment>
+				      <environment>Sandbox</environment>
 				      <businessGroup>kellton</businessGroup>
 				      <workers>1</workers>
 				      <workerType>0.1 vCores</workerType>
