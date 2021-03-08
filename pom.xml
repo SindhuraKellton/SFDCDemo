@@ -32,14 +32,14 @@
 				<configuration>
 					<cloudHubDeployment>
 				      <uri>https://anypoint.mulesoft.com</uri>
-				      <muleVersion>${app.runtime}</muleVersion>
-				      <username>${anypoint.username}</username>
-				      <password>${anypoint.password}</password>
-				      <applicationName>${appname}</applicationName>
-				      <environment>${env}</environment>
-				      <businessGroup>${business}</businessGroup>
-				      <workers>${workers}</workers>
-				      <workerType>${vCore}</workerType>
+				      <muleVersion>4.3.0</muleVersion>
+				      <username>keerthisindhura1234</username>
+				      <password>Keerthisindhura1234$</password>
+				      <applicationName>salesforcedemo</applicationName>
+				      <environment>sandbox</environment>
+				      <businessGroup>kellton</businessGroup>
+				      <workers>1</workers>
+				      <workerType>0.1 vCores</workerType>
 				      <objectStoreV2>true</objectStoreV2>
 				    </cloudHubDeployment>
 				    <classifier>mule-application</classifier>
